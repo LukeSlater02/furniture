@@ -1,0 +1,16 @@
+C:\Users\Luke\c-sharp\furniture\bin\Debug\net5.0\furniture.exe
+C:\Users\Luke\c-sharp\furniture\bin\Debug\net5.0\furniture.deps.json
+C:\Users\Luke\c-sharp\furniture\bin\Debug\net5.0\furniture.runtimeconfig.json
+C:\Users\Luke\c-sharp\furniture\bin\Debug\net5.0\furniture.runtimeconfig.dev.json
+C:\Users\Luke\c-sharp\furniture\bin\Debug\net5.0\furniture.dll
+C:\Users\Luke\c-sharp\furniture\bin\Debug\net5.0\ref\furniture.dll
+C:\Users\Luke\c-sharp\furniture\bin\Debug\net5.0\furniture.pdb
+C:\Users\Luke\c-sharp\furniture\obj\Debug\net5.0\furniture.csproj.AssemblyReference.cache
+C:\Users\Luke\c-sharp\furniture\obj\Debug\net5.0\furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\c-sharp\furniture\obj\Debug\net5.0\furniture.AssemblyInfoInputs.cache
+C:\Users\Luke\c-sharp\furniture\obj\Debug\net5.0\furniture.AssemblyInfo.cs
+C:\Users\Luke\c-sharp\furniture\obj\Debug\net5.0\furniture.csproj.CoreCompileInputs.cache
+C:\Users\Luke\c-sharp\furniture\obj\Debug\net5.0\furniture.dll
+C:\Users\Luke\c-sharp\furniture\obj\Debug\net5.0\ref\furniture.dll
+C:\Users\Luke\c-sharp\furniture\obj\Debug\net5.0\furniture.pdb
+C:\Users\Luke\c-sharp\furniture\obj\Debug\net5.0\furniture.genruntimeconfig.cache
